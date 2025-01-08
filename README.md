@@ -19,6 +19,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/hamza-ramadan-85320a240/" target="_blank"><img src="https://img.shields.io/badge/-Hamza Ramadan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/hamza.ramadan.1650/" target="_blank"><img src="https://img.shields.io/badge/-Hamza Ramadan-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
