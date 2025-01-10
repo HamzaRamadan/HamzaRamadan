@@ -13,7 +13,7 @@
 
 - 🏢 I'm a full stack Web Developer React.js & Node.js (MERN stack)
   
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NextJs, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NextJs, and NodeJs,  or anything related to web development.
 
 
 ### Connect with Me :
